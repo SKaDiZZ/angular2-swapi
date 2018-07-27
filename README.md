@@ -1,3 +1,9 @@
+<div align="center">
+
+![angular swapi](https://github.com/SKaDiZZ/angular2-swapi/blob/master/docs/virtuwars.png?raw=true)
+
+</div>
+
 # angular2-swapi 
 Angular2Swapi library will help developers building angular and ionic applications which are using data from **StarWars API**.
 
