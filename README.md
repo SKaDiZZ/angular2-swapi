@@ -1,4 +1,4 @@
-<div align="center" style="width:100%;height:auto;">
+<div align="center">
 
 ![angular swapi](https://github.com/SKaDiZZ/angular2-swapi/blob/master/docs/virtuwars.png?raw=true)
 
